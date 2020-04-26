@@ -1,0 +1,1210 @@
+﻿Log file open, 04/26/20 16:28:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Summer2020RacingGame
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.288715
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-4710MQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 4600
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.26-23.28.44:108][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.26-23.28.44:108][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.26-23.28.44:108][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Saved/Config/Windows/Engine.ini]
+[2020.04.26-23.28.44:108][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.26-23.28.44:108][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Saved/Config/Windows/Engine.ini]
+[2020.04.26-23.28.44:108][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Saved/Config/Windows/Engine.ini]
+[2020.04.26-23.28.44:108][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.26-23.28.44:108][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.26-23.28.44:108][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.26-23.28.44:108][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.26-23.28.44:108][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.26-23.28.44:108][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.26-23.28.44:108][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.26-23.28.44:108][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.26-23.28.44:108][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.26-23.28.44:108][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.26-23.28.44:108][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.26-23.28.44:108][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.26-23.28.44:108][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.26-23.28.44:108][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Saved/Config/Windows/Engine.ini]
+[2020.04.26-23.28.44:108][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.26-23.28.44:108][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.26-23.28.44:108][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.26-23.28.44:108][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.26-23.28.44:108][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.26-23.28.44:108][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.26-23.28.44:108][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.04.26-23.28.44:108][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.26-23.28.44:108][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.26-23.28.44:109][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.26-23.28.44:109][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.26-23.28.44:109][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.26-23.28.44:109][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.26-23.28.44:109][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Saved/Config/Windows/Engine.ini]
+[2020.04.26-23.28.44:109][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Saved/Config/Windows/Engine.ini]
+[2020.04.26-23.28.44:111][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-23.28.44:111][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.26-23.28.44:111][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.26-23.28.44:111][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-23.28.44:111][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.26-23.28.44:111][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-23.28.44:111][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.26-23.28.44:111][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.26-23.28.44:111][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.26-23.28.44:112][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.26-23.28.44:113][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.26-23.28.44:113][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.26-23.28.44:113][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.26-23.28.44:113][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.26-23.28.44:113][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.26-23.28.44:113][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.26-23.28.44:113][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.26-23.28.44:113][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.26-23.28.44:113][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.26-23.28.44:113][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-23.28.44:113][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.26-23.28.44:113][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.26-23.28.44:113][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.26-23.28.44:113][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.26-23.28.44:129][  0]LogHAL: Display: Platform has ~ 16 GB [17055113216 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.26-23.28.44:129][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.04.26-23.28.44:129][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.26-23.28.44:129][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-23.28.44:129][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.26-23.28.44:129][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.26-23.28.44:129][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-23.28.44:129][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.26-23.28.44:129][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-23.28.44:129][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.26-23.28.44:129][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.26-23.28.44:129][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.26-23.28.44:129][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.26-23.28.44:129][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.26-23.28.44:129][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.26-23.28.44:129][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.26-23.28.44:129][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.26-23.28.44:129][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.26-23.28.44:129][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.26-23.28.44:129][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.26-23.28.44:129][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.26-23.28.44:129][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.26-23.28.44:129][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.26-23.28.44:129][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.26-23.28.44:129][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.26-23.28.44:129][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.26-23.28.44:129][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Saved/Config/Windows/Scalability.ini]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.26-23.28.44:130][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.26-23.28.44:131][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.26-23.28.44:131][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.26-23.28.44:131][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Saved/Config/Windows/Engine.ini]
+[2020.04.26-23.28.44:131][  0]LogInit: Computer: MAX
+[2020.04.26-23.28.44:131][  0]LogInit: User: Max
+[2020.04.26-23.28.44:131][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.04.26-23.28.44:131][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.26-23.28.44:131][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.04.26-23.28.44:131][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.26-23.28.44:131][  0]LogMemory: Process Physical Memory: 97.54 MB used, 97.54 MB peak
+[2020.04.26-23.28.44:131][  0]LogMemory: Process Virtual Memory: 89.07 MB used, 89.07 MB peak
+[2020.04.26-23.28.44:131][  0]LogMemory: Physical Memory: 7846.85 MB used,  8418.18 MB free, 16265.02 MB total
+[2020.04.26-23.28.44:131][  0]LogMemory: Virtual Memory: 4642.23 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2020.04.26-23.28.44:173][  0]LogInit: Using OS detected language (en-US).
+[2020.04.26-23.28.44:173][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.26-23.28.44:174][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.26-23.28.44:427][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.26-23.28.44:482][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.26-23.28.44:482][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.26-23.28.44:730][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.26-23.28.44:730][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.26-23.28.44:739][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2020.04.26-23.28.44:739][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.04.26-23.28.44:741][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.26-23.28.44:741][  0]LogD3D11RHI:       0/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.26-23.28.44:741][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.26-23.28.44:749][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.26-23.28.44:749][  0]LogD3D11RHI:     GPU DeviceId: 0x416 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.26-23.28.44:749][  0]LogWindows: EnumDisplayDevices:
+[2020.04.26-23.28.44:749][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2020.04.26-23.28.44:750][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2020.04.26-23.28.44:750][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2020.04.26-23.28.44:750][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.04.26-23.28.44:750][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 4600
+[2020.04.26-23.28.44:750][  0]LogD3D11RHI:   Driver Version: 20.19.15.4531 (internal:20.19.15.4531, unified:20.19.15.4531)
+[2020.04.26-23.28.44:750][  0]LogD3D11RHI:      Driver Date: 9-29-2016
+[2020.04.26-23.28.44:750][  0]LogRHI: Texture pool is 795 MB (70% of 1136 MB)
+[2020.04.26-23.28.44:757][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.26-23.28.44:761][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.26-23.28.44:761][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.26-23.28.44:761][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.26-23.28.44:765][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2020.04.26-23.28.45:158][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.04.26-23.28.45:172][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.04.26-23.28.45:188][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.04.26-23.28.45:204][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.04.26-23.28.45:219][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.04.26-23.28.45:234][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.04.26-23.28.45:249][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.26-23.28.45:263][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.04.26-23.28.45:271][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.04.26-23.28.45:372][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.04.26-23.28.45:372][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.04.26-23.28.45:372][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.04.26-23.28.45:372][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.04.26-23.28.45:372][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.04.26-23.28.45:372][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.04.26-23.28.45:372][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.04.26-23.28.45:372][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.04.26-23.28.45:372][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.04.26-23.28.45:372][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.26-23.28.45:372][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.04.26-23.28.45:372][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.04.26-23.28.45:372][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.26-23.28.45:372][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.26-23.28.45:372][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.26-23.28.45:372][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.26-23.28.45:372][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.04.26-23.28.45:372][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.04.26-23.28.45:374][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.04.26-23.28.45:426][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.04.26-23.28.45:426][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.04.26-23.28.45:451][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.04.26-23.28.45:451][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.04.26-23.28.45:464][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.04.26-23.28.45:478][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.26-23.28.45:491][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.04.26-23.28.45:506][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.04.26-23.28.45:563][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.04.26-23.28.45:563][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.04.26-23.28.45:563][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.26-23.28.45:572][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.26-23.28.45:626][  0]LogShaderCompilers: Guid format shader working directory is -55 characters bigger than the processId version (../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Intermediate/Shaders/WorkingDirectory/13596/).
+[2020.04.26-23.28.45:626][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Max/AppData/Local/Temp/UnrealShaderWorkingDir/8B3C221444035BD4896094A5FDEFF91B/'.
+[2020.04.26-23.28.45:628][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.26-23.28.45:628][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.26-23.28.45:629][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.26-23.28.46:270][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.26-23.28.46:335][  0]LogDerivedDataCache: Loaded boot cache 0.06s 80MB C:/Users/Max/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.04.26-23.28.46:335][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Max/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.04.26-23.28.46:336][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.26-23.28.46:336][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.26-23.28.46:336][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.26-23.28.46:336][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.26-23.28.46:350][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.26-23.28.46:350][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.26-23.28.46:350][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.26-23.28.46:362][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Max/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.26-23.28.46:362][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.26-23.28.46:362][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.26-23.28.46:397][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.26-23.28.46:399][  0]LogSlate: Using FreeType 2.6.0
+[2020.04.26-23.28.46:400][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.26-23.28.46:498][  0]LogAssetRegistry: FAssetRegistry took 0.0356 seconds to start up
+[2020.04.26-23.28.46:868][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.26-23.28.47:089][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.26-23.28.47:089][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.26-23.28.47:089][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.26-23.28.47:089][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.26-23.28.47:089][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.26-23.28.47:108][  0]LogNetVersion: Summer2020RacingGame 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 410335433)
+[2020.04.26-23.28.47:574][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.045066 seconds
+[2020.04.26-23.28.47:583][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.04.26-23.28.47:583][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.04.26-23.28.47:583][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.26-23.28.48:464][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.26-23.28.48:495][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.26-23.28.48:604][  0]SourceControl: Source control is disabled
+[2020.04.26-23.28.48:605][  0]SourceControl: Source control is disabled
+[2020.04.26-23.28.48:606][  0]SourceControl: Source control is disabled
+[2020.04.26-23.28.48:607][  0]SourceControl: Source control is disabled
+[2020.04.26-23.28.48:686][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.26-23.28.48:745][  0]LogOcInput: OculusInput pre-init called
+[2020.04.26-23.28.49:459][  0]LogEngine: Initializing Engine...
+[2020.04.26-23.28.49:459][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.26-23.28.49:461][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.26-23.28.49:709][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.26-23.28.49:726][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.26-23.28.49:735][  0]LogInit: XAudio2 using 'Speakers / Headphones (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.26-23.28.49:825][  0]LogInit: FAudioDevice initialized.
+[2020.04.26-23.28.49:826][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.26-23.28.50:523][  0]LogDerivedDataCache: Saved boot cache 0.70s 80MB C:/Users/Max/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.04.26-23.28.50:537][  0]LogInit: Texture streaming: Enabled
+[2020.04.26-23.28.50:567][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.26-23.28.50:601][  0]LogInit: Transaction tracking system initialized
+[2020.04.26-23.28.50:633][  0]BlueprintLog: New page: Editor Load
+[2020.04.26-23.28.50:812][  0]LocalizationService: Localization service is disabled
+[2020.04.26-23.28.51:223][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/' took 0.01s
+[2020.04.26-23.28.51:223][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.26-23.28.51:223][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.26-23.28.51:551][  0]SourceControl: Source control is disabled
+[2020.04.26-23.28.51:554][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.22/FeaturePacks/StarterContent.upack)
+[2020.04.26-23.28.51:568][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2020.04.26-23.28.52:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2020.04.26-23.28.52:604][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2020.04.26-23.28.52:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2020.04.26-23.28.53:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2020.04.26-23.28.53:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2020.04.26-23.28.53:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2020.04.26-23.28.53:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2020.04.26-23.28.53:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2020.04.26-23.28.54:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2020.04.26-23.28.54:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2020.04.26-23.28.54:194][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2020.04.26-23.28.54:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Audio/Collapse01.uasset"
+[2020.04.26-23.28.54:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Audio/Collapse02.uasset"
+[2020.04.26-23.28.54:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2020.04.26-23.28.54:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Audio/Explosion01.uasset"
+[2020.04.26-23.28.54:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Audio/Explosion02.uasset"
+[2020.04.26-23.28.54:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2020.04.26-23.28.54:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Audio/Fire01.uasset"
+[2020.04.26-23.28.54:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2020.04.26-23.28.55:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2020.04.26-23.28.55:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2020.04.26-23.28.55:305][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Audio/Light01.uasset"
+[2020.04.26-23.28.55:322][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2020.04.26-23.28.55:361][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Audio/Light02.uasset"
+[2020.04.26-23.28.55:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2020.04.26-23.28.55:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Audio/Smoke01.uasset"
+[2020.04.26-23.28.55:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2020.04.26-23.28.55:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2020.04.26-23.28.56:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2020.04.26-23.28.56:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2020.04.26-23.28.56:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2020.04.26-23.28.56:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2020.04.26-23.28.56:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2020.04.26-23.28.57:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Audio/Steam01.uasset"
+[2020.04.26-23.28.57:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2020.04.26-23.28.57:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2020.04.26-23.28.57:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2020.04.26-23.28.57:646][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2020.04.26-23.28.57:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2020.04.26-23.28.57:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2020.04.26-23.28.57:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2020.04.26-23.28.57:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2020.04.26-23.28.58:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2020.04.26-23.28.58:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2020.04.26-23.28.58:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2020.04.26-23.28.58:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2020.04.26-23.28.58:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2020.04.26-23.28.58:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2020.04.26-23.28.59:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2020.04.26-23.28.59:266][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2020.04.26-23.28.59:305][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2020.04.26-23.29.01:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2020.04.26-23.29.01:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2020.04.26-23.29.01:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2020.04.26-23.29.01:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Maps/Minimal_Default.umap"
+[2020.04.26-23.29.01:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2020.04.26-23.29.01:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Maps/StarterMap.umap"
+[2020.04.26-23.29.02:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2020.04.26-23.29.02:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2020.04.26-23.29.03:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2020.04.26-23.29.04:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2020.04.26-23.29.04:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2020.04.26-23.29.04:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2020.04.26-23.29.05:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2020.04.26-23.29.05:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2020.04.26-23.29.06:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2020.04.26-23.29.06:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2020.04.26-23.29.06:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2020.04.26-23.29.06:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2020.04.26-23.29.06:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2020.04.26-23.29.06:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2020.04.26-23.29.06:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2020.04.26-23.29.06:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2020.04.26-23.29.06:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2020.04.26-23.29.07:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2020.04.26-23.29.07:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Glass.uasset"
+[2020.04.26-23.29.07:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2020.04.26-23.29.07:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2020.04.26-23.29.07:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2020.04.26-23.29.07:670][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2020.04.26-23.29.07:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2020.04.26-23.29.07:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2020.04.26-23.29.07:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2020.04.26-23.29.07:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2020.04.26-23.29.07:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2020.04.26-23.29.07:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2020.04.26-23.29.07:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2020.04.26-23.29.07:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2020.04.26-23.29.08:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2020.04.26-23.29.08:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2020.04.26-23.29.08:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2020.04.26-23.29.08:479][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2020.04.26-23.29.08:539][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2020.04.26-23.29.08:648][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2020.04.26-23.29.08:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2020.04.26-23.29.08:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2020.04.26-23.29.08:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2020.04.26-23.29.08:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2020.04.26-23.29.08:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2020.04.26-23.29.08:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2020.04.26-23.29.08:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2020.04.26-23.29.09:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2020.04.26-23.29.09:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Particles/P_Explosion.uasset"
+[2020.04.26-23.29.09:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Particles/P_Fire.uasset"
+[2020.04.26-23.29.09:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Particles/P_Smoke.uasset"
+[2020.04.26-23.29.09:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Particles/P_Sparks.uasset"
+[2020.04.26-23.29.09:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2020.04.26-23.29.09:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2020.04.26-23.29.09:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2020.04.26-23.29.09:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2020.04.26-23.29.09:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2020.04.26-23.29.09:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2020.04.26-23.29.10:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2020.04.26-23.29.10:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2020.04.26-23.29.10:185][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2020.04.26-23.29.10:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2020.04.26-23.29.10:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2020.04.26-23.29.10:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Props/MaterialSphere.uasset"
+[2020.04.26-23.29.10:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Props/SM_Bush.uasset"
+[2020.04.26-23.29.11:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Props/SM_Chair.uasset"
+[2020.04.26-23.29.11:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2020.04.26-23.29.11:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Props/SM_Couch.uasset"
+[2020.04.26-23.29.11:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Props/SM_Door.uasset"
+[2020.04.26-23.29.11:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2020.04.26-23.29.11:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2020.04.26-23.29.11:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2020.04.26-23.29.11:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2020.04.26-23.29.12:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2020.04.26-23.29.12:338][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2020.04.26-23.29.12:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2020.04.26-23.29.12:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Props/SM_Rock.uasset"
+[2020.04.26-23.29.12:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Props/SM_Shelf.uasset"
+[2020.04.26-23.29.12:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Props/SM_Stairs.uasset"
+[2020.04.26-23.29.12:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Props/SM_Statue.uasset"
+[2020.04.26-23.29.12:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Props/SM_TableRound.uasset"
+[2020.04.26-23.29.12:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2020.04.26-23.29.13:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2020.04.26-23.29.13:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2020.04.26-23.29.13:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2020.04.26-23.29.13:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2020.04.26-23.29.13:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2020.04.26-23.29.13:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2020.04.26-23.29.13:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2020.04.26-23.29.13:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2020.04.26-23.29.13:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2020.04.26-23.29.13:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2020.04.26-23.29.13:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2020.04.26-23.29.13:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2020.04.26-23.29.13:600][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2020.04.26-23.29.13:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2020.04.26-23.29.13:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2020.04.26-23.29.13:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2020.04.26-23.29.13:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2020.04.26-23.29.13:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2020.04.26-23.29.14:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2020.04.26-23.29.14:055][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2020.04.26-23.29.14:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2020.04.26-23.29.14:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2020.04.26-23.29.14:190][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2020.04.26-23.29.14:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2020.04.26-23.29.14:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2020.04.26-23.29.14:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2020.04.26-23.29.14:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2020.04.26-23.29.14:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2020.04.26-23.29.14:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2020.04.26-23.29.14:436][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2020.04.26-23.29.14:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2020.04.26-23.29.14:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2020.04.26-23.29.14:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2020.04.26-23.29.15:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2020.04.26-23.29.15:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2020.04.26-23.29.15:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2020.04.26-23.29.16:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2020.04.26-23.29.16:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2020.04.26-23.29.17:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2020.04.26-23.29.17:561][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2020.04.26-23.29.18:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2020.04.26-23.29.18:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2020.04.26-23.29.18:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2020.04.26-23.29.18:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2020.04.26-23.29.19:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2020.04.26-23.29.19:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2020.04.26-23.29.19:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2020.04.26-23.29.19:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2020.04.26-23.29.19:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2020.04.26-23.29.21:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2020.04.26-23.29.23:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2020.04.26-23.29.23:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2020.04.26-23.29.24:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2020.04.26-23.29.24:587][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2020.04.26-23.29.25:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2020.04.26-23.29.25:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2020.04.26-23.29.25:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2020.04.26-23.29.26:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2020.04.26-23.29.27:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2020.04.26-23.29.27:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2020.04.26-23.29.28:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2020.04.26-23.29.28:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2020.04.26-23.29.28:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2020.04.26-23.29.29:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2020.04.26-23.29.29:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2020.04.26-23.29.30:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2020.04.26-23.29.30:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2020.04.26-23.29.31:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2020.04.26-23.29.32:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2020.04.26-23.29.32:610][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2020.04.26-23.29.32:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Door_M.uasset"
+[2020.04.26-23.29.33:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Door_N.uasset"
+[2020.04.26-23.29.33:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2020.04.26-23.29.33:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2020.04.26-23.29.34:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2020.04.26-23.29.34:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2020.04.26-23.29.35:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2020.04.26-23.29.35:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2020.04.26-23.29.35:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2020.04.26-23.29.35:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2020.04.26-23.29.35:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2020.04.26-23.29.36:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2020.04.26-23.29.36:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2020.04.26-23.29.37:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2020.04.26-23.29.37:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2020.04.26-23.29.37:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2020.04.26-23.29.39:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2020.04.26-23.29.40:124][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2020.04.26-23.29.40:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2020.04.26-23.29.41:677][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2020.04.26-23.29.41:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2020.04.26-23.29.41:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2020.04.26-23.29.42:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2020.04.26-23.29.43:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2020.04.26-23.29.43:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2020.04.26-23.29.44:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2020.04.26-23.29.45:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2020.04.26-23.29.45:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2020.04.26-23.29.47:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2020.04.26-23.29.48:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2020.04.26-23.29.48:676][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2020.04.26-23.29.48:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2020.04.26-23.29.49:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2020.04.26-23.29.49:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2020.04.26-23.29.50:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2020.04.26-23.29.51:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2020.04.26-23.29.51:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2020.04.26-23.29.52:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2020.04.26-23.29.53:194][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2020.04.26-23.29.53:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2020.04.26-23.29.53:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2020.04.26-23.29.54:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2020.04.26-23.29.54:373][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2020.04.26-23.29.55:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2020.04.26-23.29.55:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2020.04.26-23.29.55:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2020.04.26-23.29.56:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2020.04.26-23.29.56:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2020.04.26-23.29.57:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2020.04.26-23.29.58:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2020.04.26-23.29.58:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2020.04.26-23.29.58:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2020.04.26-23.29.58:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2020.04.26-23.29.59:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Water_M.uasset"
+[2020.04.26-23.29.59:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Water_N.uasset"
+[2020.04.26-23.29.59:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2020.04.26-23.30.00:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2020.04.26-23.30.00:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2020.04.26-23.30.01:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2020.04.26-23.30.02:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2020.04.26-23.30.03:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2020.04.26-23.30.03:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2020.04.26-23.30.03:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2020.04.26-23.30.04:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2020.04.26-23.30.04:955][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2020.04.26-23.30.04:964][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2020.04.26-23.30.05:046][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2020.04.26-23.30.05:568][  0]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Saved/Floor_400x4001B30CB1848312FF31CD7A9AADD2F90FE.tmp' to '../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2020.04.26-23.30.05:577][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2020.04.26-23.30.05:583][  0]LightingResults: New page: Lighting Build
+[2020.04.26-23.30.05:586][  0]MapCheck: New page: Map Check
+[2020.04.26-23.30.05:586][  0]LightingResults: New page: Lighting Build
+[2020.04.26-23.30.05:619][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.04.26-23.30.11:619][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.04.26-23.30.11:628][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.26-23.30.11:661][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.04.26-23.30.11:662][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.26-23.30.11:662][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.166ms to complete.
+[2020.04.26-23.30.11:662][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 6.078
+[2020.04.26-23.30.12:347][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-23.30.12:358][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-23.30.12:366][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-23.30.12:374][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-23.30.12:385][  0]LogCollectionManager: Loaded 0 collections in 0.001626 seconds
+[2020.04.26-23.30.12:490][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Saved/Collections/' took 0.01s
+[2020.04.26-23.30.12:490][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/Developers/Max/Collections/' took 0.01s
+[2020.04.26-23.30.12:490][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/Collections/' took 0.01s
+[2020.04.26-23.30.12:490][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.04.26-23.30.12:512][  0]LogContentBrowser: Native class hierarchy populated in 0.0211 seconds. Added 2732 classes and 659 folders.
+[2020.04.26-23.30.12:736][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.26-23.30.12:738][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.26-23.30.12:738][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.26-23.30.12:739][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.26-23.30.12:739][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.26-23.30.12:740][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.26-23.30.12:740][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.26-23.30.12:741][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.26-23.30.12:741][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.26-23.30.12:742][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.26-23.30.12:742][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.26-23.30.12:742][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.26-23.30.12:743][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.26-23.30.12:743][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.26-23.30.12:744][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.26-23.30.12:744][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.26-23.30.12:745][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.26-23.30.12:745][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.26-23.30.12:746][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.26-23.30.12:746][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.26-23.30.12:747][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.26-23.30.12:747][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.26-23.30.12:748][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.26-23.30.12:748][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.26-23.30.12:749][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.26-23.30.12:749][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.26-23.30.12:750][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.26-23.30.12:784][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.04.26-23.30.13:170][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.04.26-23.30.13:297][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.26-23.30.13:300][  0]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.26-23.30.13:316][  0]LogSlate: Took 0.008725 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.26-23.30.13:388][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2020.04.26-23.30.13:777][  0]LogSlate: Took 0.001266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.26-23.30.13:898][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.26-23.30.13:898][  0]LogLoad: (Engine Initialization) Total time: 91.94 seconds
+[2020.04.26-23.30.13:898][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.26-23.30.13:910][  0]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.04.26-23.30.13:910][  0]Can't find target actor or component.
+[2020.04.26-23.30.14:237][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.26-23.30.44:739][909]LogAssetRegistry: Asset discovery search completed in 118.2646 seconds
+[2020.04.26-23.30.44:743][909]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.04.26-23.30.44:743][909]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000072 seconds (updated 0 objects)
+[2020.04.26-23.31.18:659][ 29]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
+[2020.04.26-23.31.22:271][131]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.26-23.31.25:451][495]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.26-23.31.39:345][495]LogSlate: Window 'Save Level As' being destroyed
+[2020.04.26-23.31.39:356][495]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.26-23.31.39:359][495]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.26-23.31.39:832][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.04.26-23.31.39:917][495]LogAIModule: Creating AISystem for world TestingLevel
+[2020.04.26-23.31.39:959][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.04.26-23.31.40:088][495]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Saved/TestingLevel6DD44CC448EBBC8A7A070B8CA7872936.tmp' to '../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/TestingLevel.umap'
+[2020.04.26-23.31.40:228][495]LogSavePackage: Moving '../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Saved/TestingLevel_BuiltData8B3C902747024919A1CC7F9EB4B333F1.tmp' to '../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/TestingLevel_BuiltData.uasset'
+[2020.04.26-23.31.40:236][495]LogFileHelpers: Saving map 'TestingLevel' took 0.886
+[2020.04.26-23.31.40:237][495]Cmd: MAP LOAD FILE="../../../../../../Users/Max/Desktop/Summer2020RacingGame/Summer2020RacingGame/Summer2020RacingGame/Content/TestingLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.26-23.31.40:240][495]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.26-23.31.40:246][495]LightingResults: New page: Lighting Build
+[2020.04.26-23.31.40:247][495]LoadErrors: New page: Loading map: TestingLevel.umap
+[2020.04.26-23.31.40:249][495]MapCheck: New page: Map Check
+[2020.04.26-23.31.40:250][495]LightingResults: New page: Lighting Build
+[2020.04.26-23.31.40:277][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.04.26-23.31.40:303][495]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.26-23.31.40:331][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.04.26-23.31.40:367][495]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.26-23.31.40:368][495]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.192ms to complete.
+[2020.04.26-23.31.40:368][495]LogFileHelpers: Loading map 'TestingLevel' took 0.132
+[2020.04.26-23.31.43:451][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-23.31.43:611][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.04.26-23.31.43:670][587]LogSlate: Window 'Summer2020RacingGame - Unreal Editor' being destroyed
+[2020.04.26-23.31.43:670][587]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.26-23.31.43:866][588]Cmd: QUIT_EDITOR
+[2020.04.26-23.31.43:912][588]LogExit: Preparing to exit.
+[2020.04.26-23.31.44:643][588]LogExit: Editor shut down
+[2020.04.26-23.31.44:643][588]LogExit: Transaction tracking system shut down
+[2020.04.26-23.31.44:816][588]LogExit: Object subsystem successfully closed.
+[2020.04.26-23.31.44:833][588]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.04.26-23.31.44:848][588]LogD3D11RHI: Shutdown
+[2020.04.26-23.31.44:848][588]LogD3D11RHI: CleanupD3DDevice
+[2020.04.26-23.31.44:849][588]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.04.26-23.31.44:849][588]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.04.26-23.31.44:849][588]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.04.26-23.31.44:849][588]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.04.26-23.31.44:849][588]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.04.26-23.31.44:849][588]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.04.26-23.31.45:185][588]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.04.26-23.31.45:211][588]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (646)
+[2020.04.26-23.31.45:211][588]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (644)
+[2020.04.26-23.31.45:211][588]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2020.04.26-23.31.45:211][588]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2020.04.26-23.31.45:214][588]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2020.04.26-23.31.45:214][588]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2020.04.26-23.31.45:214][588]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2020.04.26-23.31.45:214][588]LogModuleManager: Shutting down and abandoning module StatsViewer (632)
+[2020.04.26-23.31.45:214][588]LogModuleManager: Shutting down and abandoning module MeshBuilder (630)
+[2020.04.26-23.31.45:214][588]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2020.04.26-23.31.45:214][588]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2020.04.26-23.31.45:215][588]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2020.04.26-23.31.45:216][588]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2020.04.26-23.31.45:216][588]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2020.04.26-23.31.45:216][588]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2020.04.26-23.31.45:216][588]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2020.04.26-23.31.45:216][588]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2020.04.26-23.31.45:216][588]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2020.04.26-23.31.45:216][588]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2020.04.26-23.31.45:216][588]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2020.04.26-23.31.46:059][588]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2020.04.26-23.31.46:059][588]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2020.04.26-23.31.46:059][588]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2020.04.26-23.31.46:059][588]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2020.04.26-23.31.46:059][588]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2020.04.26-23.31.46:059][588]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2020.04.26-23.31.46:059][588]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2020.04.26-23.31.46:059][588]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2020.04.26-23.31.46:060][588]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2020.04.26-23.31.46:060][588]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2020.04.26-23.31.46:060][588]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2020.04.26-23.31.46:060][588]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2020.04.26-23.31.46:060][588]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2020.04.26-23.31.46:060][588]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2020.04.26-23.31.46:060][588]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2020.04.26-23.31.46:060][588]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2020.04.26-23.31.46:060][588]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2020.04.26-23.31.46:061][588]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2020.04.26-23.31.46:061][588]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2020.04.26-23.31.46:061][588]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2020.04.26-23.31.46:061][588]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2020.04.26-23.31.46:061][588]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2020.04.26-23.31.46:061][588]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2020.04.26-23.31.46:104][588]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2020.04.26-23.31.46:104][588]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2020.04.26-23.31.46:104][588]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2020.04.26-23.31.46:104][588]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2020.04.26-23.31.46:104][588]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2020.04.26-23.31.46:104][588]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2020.04.26-23.31.46:105][588]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2020.04.26-23.31.46:105][588]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2020.04.26-23.31.46:105][588]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2020.04.26-23.31.46:105][588]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2020.04.26-23.31.46:105][588]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2020.04.26-23.31.46:106][588]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2020.04.26-23.31.46:106][588]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2020.04.26-23.31.46:106][588]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2020.04.26-23.31.46:107][588]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2020.04.26-23.31.46:107][588]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2020.04.26-23.31.46:107][588]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2020.04.26-23.31.46:107][588]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2020.04.26-23.31.46:107][588]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2020.04.26-23.31.46:107][588]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2020.04.26-23.31.46:107][588]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2020.04.26-23.31.46:107][588]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2020.04.26-23.31.46:107][588]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2020.04.26-23.31.46:107][588]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2020.04.26-23.31.46:108][588]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2020.04.26-23.31.46:108][588]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2020.04.26-23.31.46:108][588]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2020.04.26-23.31.46:108][588]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2020.04.26-23.31.46:108][588]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2020.04.26-23.31.46:108][588]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2020.04.26-23.31.46:108][588]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2020.04.26-23.31.46:108][588]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2020.04.26-23.31.46:108][588]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2020.04.26-23.31.46:108][588]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2020.04.26-23.31.46:108][588]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2020.04.26-23.31.46:117][588]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2020.04.26-23.31.46:264][588]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2020.04.26-23.31.46:265][588]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2020.04.26-23.31.46:265][588]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2020.04.26-23.31.46:265][588]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2020.04.26-23.31.46:265][588]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2020.04.26-23.31.46:265][588]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2020.04.26-23.31.46:265][588]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2020.04.26-23.31.46:265][588]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2020.04.26-23.31.46:265][588]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2020.04.26-23.31.46:265][588]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2020.04.26-23.31.46:265][588]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2020.04.26-23.31.46:265][588]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2020.04.26-23.31.46:265][588]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2020.04.26-23.31.46:266][588]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2020.04.26-23.31.46:266][588]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2020.04.26-23.31.46:266][588]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2020.04.26-23.31.46:266][588]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2020.04.26-23.31.46:266][588]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2020.04.26-23.31.46:266][588]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2020.04.26-23.31.46:266][588]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2020.04.26-23.31.46:266][588]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2020.04.26-23.31.46:266][588]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2020.04.26-23.31.46:266][588]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2020.04.26-23.31.46:266][588]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2020.04.26-23.31.46:266][588]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2020.04.26-23.31.46:266][588]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2020.04.26-23.31.46:266][588]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2020.04.26-23.31.46:266][588]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2020.04.26-23.31.46:267][588]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2020.04.26-23.31.46:267][588]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2020.04.26-23.31.46:267][588]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2020.04.26-23.31.46:267][588]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2020.04.26-23.31.46:267][588]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2020.04.26-23.31.46:267][588]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2020.04.26-23.31.46:267][588]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2020.04.26-23.31.46:267][588]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2020.04.26-23.31.46:267][588]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2020.04.26-23.31.46:267][588]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2020.04.26-23.31.46:267][588]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.04.26-23.31.46:267][588]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.04.26-23.31.46:267][588]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.04.26-23.31.46:268][588]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.04.26-23.31.46:268][588]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.04.26-23.31.46:268][588]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.04.26-23.31.46:268][588]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.04.26-23.31.46:268][588]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.04.26-23.31.46:268][588]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.04.26-23.31.46:268][588]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.04.26-23.31.46:268][588]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2020.04.26-23.31.46:268][588]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2020.04.26-23.31.46:268][588]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2020.04.26-23.31.46:269][588]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2020.04.26-23.31.46:269][588]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2020.04.26-23.31.46:269][588]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2020.04.26-23.31.46:269][588]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2020.04.26-23.31.46:269][588]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2020.04.26-23.31.46:269][588]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2020.04.26-23.31.46:269][588]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2020.04.26-23.31.46:269][588]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2020.04.26-23.31.46:269][588]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.04.26-23.31.46:269][588]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.04.26-23.31.46:269][588]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.04.26-23.31.46:371][588]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.04.26-23.31.46:472][588]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2020.04.26-23.31.46:472][588]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2020.04.26-23.31.46:472][588]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2020.04.26-23.31.46:472][588]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2020.04.26-23.31.46:472][588]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2020.04.26-23.31.46:472][588]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.04.26-23.31.46:472][588]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2020.04.26-23.31.46:472][588]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2020.04.26-23.31.46:472][588]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2020.04.26-23.31.46:472][588]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2020.04.26-23.31.46:472][588]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2020.04.26-23.31.46:472][588]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2020.04.26-23.31.46:472][588]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2020.04.26-23.31.46:472][588]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2020.04.26-23.31.46:473][588]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2020.04.26-23.31.46:473][588]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2020.04.26-23.31.46:473][588]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2020.04.26-23.31.46:473][588]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2020.04.26-23.31.46:474][588]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2020.04.26-23.31.46:474][588]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2020.04.26-23.31.46:474][588]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2020.04.26-23.31.46:474][588]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.04.26-23.31.46:474][588]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2020.04.26-23.31.46:475][588]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2020.04.26-23.31.46:475][588]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2020.04.26-23.31.46:475][588]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2020.04.26-23.31.46:475][588]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.04.26-23.31.46:475][588]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.04.26-23.31.46:475][588]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.04.26-23.31.46:475][588]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.04.26-23.31.46:475][588]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2020.04.26-23.31.46:475][588]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2020.04.26-23.31.46:475][588]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2020.04.26-23.31.46:475][588]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2020.04.26-23.31.46:475][588]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2020.04.26-23.31.46:475][588]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2020.04.26-23.31.46:475][588]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2020.04.26-23.31.46:475][588]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2020.04.26-23.31.46:475][588]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2020.04.26-23.31.46:475][588]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2020.04.26-23.31.46:475][588]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2020.04.26-23.31.46:475][588]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2020.04.26-23.31.46:475][588]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2020.04.26-23.31.46:475][588]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2020.04.26-23.31.46:475][588]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2020.04.26-23.31.46:475][588]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2020.04.26-23.31.46:477][588]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2020.04.26-23.31.46:477][588]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.04.26-23.31.46:477][588]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.04.26-23.31.46:477][588]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.04.26-23.31.46:477][588]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.04.26-23.31.46:477][588]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.04.26-23.31.46:477][588]LogModuleManager: Shutting down and abandoning module Core (174)
+[2020.04.26-23.31.46:477][588]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2020.04.26-23.31.46:477][588]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2020.04.26-23.31.46:477][588]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2020.04.26-23.31.46:477][588]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2020.04.26-23.31.46:477][588]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2020.04.26-23.31.46:477][588]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2020.04.26-23.31.46:477][588]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2020.04.26-23.31.46:477][588]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2020.04.26-23.31.46:477][588]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.04.26-23.31.46:488][588]LogDerivedDataCache: Shutdown
+[2020.04.26-23.31.46:488][588]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2020.04.26-23.31.46:489][588]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2020.04.26-23.31.46:489][588]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2020.04.26-23.31.46:489][588]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2020.04.26-23.31.46:489][588]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2020.04.26-23.31.46:489][588]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2020.04.26-23.31.46:489][588]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2020.04.26-23.31.46:489][588]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2020.04.26-23.31.46:489][588]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2020.04.26-23.31.46:489][588]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2020.04.26-23.31.46:489][588]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2020.04.26-23.31.46:489][588]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2020.04.26-23.31.46:489][588]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2020.04.26-23.31.46:489][588]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2020.04.26-23.31.46:489][588]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2020.04.26-23.31.46:489][588]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2020.04.26-23.31.46:489][588]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2020.04.26-23.31.46:489][588]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2020.04.26-23.31.46:491][588]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2020.04.26-23.31.46:491][588]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2020.04.26-23.31.46:491][588]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2020.04.26-23.31.46:491][588]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2020.04.26-23.31.46:491][588]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2020.04.26-23.31.46:493][588]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2020.04.26-23.31.46:493][588]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2020.04.26-23.31.46:493][588]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2020.04.26-23.31.46:494][588]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2020.04.26-23.31.46:501][588]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2020.04.26-23.31.46:501][588]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2020.04.26-23.31.46:501][588]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2020.04.26-23.31.46:501][588]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2020.04.26-23.31.46:502][588]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2020.04.26-23.31.46:502][588]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2020.04.26-23.31.46:502][588]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2020.04.26-23.31.46:502][588]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2020.04.26-23.31.46:502][588]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2020.04.26-23.31.46:502][588]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2020.04.26-23.31.46:502][588]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2020.04.26-23.31.46:502][588]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2020.04.26-23.31.46:502][588]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2020.04.26-23.31.46:502][588]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2020.04.26-23.31.46:502][588]LogHMD: Freeing OpenVRDLLHandle.
+[2020.04.26-23.31.46:502][588]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2020.04.26-23.31.46:502][588]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2020.04.26-23.31.46:502][588]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2020.04.26-23.31.46:502][588]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2020.04.26-23.31.46:502][588]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2020.04.26-23.31.46:503][588]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2020.04.26-23.31.46:503][588]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2020.04.26-23.31.46:521][588]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2020.04.26-23.31.46:521][588]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.04.26-23.31.46:521][588]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCCCC6397-49C8-5A1A-1E52-7ABD675FA814%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=e74699444c8fe7438d0e8cb312453dd4%7C2b2cbeee34c04f439489ed4e31dd944f%7C90d59df7-8eb9-47c3-bfc5-8470f9e2767d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.04.26-23.31.46:554][588]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2020.04.26-23.31.46:556][588]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2020.04.26-23.31.46:558][588]LogModuleManager: Shutting down and abandoning module Media (45)
+[2020.04.26-23.31.46:564][588]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.04.26-23.31.46:564][588]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.04.26-23.31.46:564][588]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.04.26-23.31.46:564][588]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.04.26-23.31.46:565][588]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.04.26-23.31.46:565][588]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.04.26-23.31.46:565][588]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.04.26-23.31.46:565][588]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.04.26-23.31.46:565][588]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.04.26-23.31.46:565][588]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.04.26-23.31.46:565][588]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.04.26-23.31.46:565][588]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.04.26-23.31.46:565][588]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.04.26-23.31.46:565][588]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.04.26-23.31.46:565][588]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.04.26-23.31.46:565][588]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.04.26-23.31.46:565][588]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.04.26-23.31.46:565][588]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.04.26-23.31.46:565][588]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.04.26-23.31.46:565][588]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.04.26-23.31.46:565][588]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.04.26-23.31.46:572][588]LogExit: Exiting.
+[2020.04.26-23.31.46:594][588]Log file closed, 04/26/20 16:31:46

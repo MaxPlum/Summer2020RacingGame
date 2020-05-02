@@ -72,3 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/Summer Game/Summer2020RacingGame/Saved/Backup
+/Summer Game/Summer2020RacingGame/Saved/Autosaves/Game/Blueprints
+/Summer2020RacingGame/Saved/Autosaves/Game/ThirdPersonBP/Maps
+/Summer2020RacingGame/Saved/Logs
+/Summer2020RacingGame/Intermediate

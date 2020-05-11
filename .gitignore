@@ -72,5 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-/Summer2020RacingGame/Saved/
+/Summer2020RacingGame/Saved
 /Summer2020RacingGame/Intermediate

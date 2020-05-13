@@ -74,3 +74,6 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 /Summer2020RacingGame/Saved
 /Summer2020RacingGame/Intermediate
+/Summer2020RacingGame/Intermediate/CachedAssetRegistry.bin
+/Summer2020RacingGame/Saved/AutoScreenshot.png
+/Summer2020RacingGame/Saved/Logs/Summer2020RacingGame.log

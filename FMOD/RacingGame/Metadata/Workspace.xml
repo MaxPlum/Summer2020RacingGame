@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.00.00">
 	<object class="Workspace" id="{e8b01532-c51e-4a17-9426-80ddcc79351a}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../Summer2020RacingGame/Content/FMOD</value>
+		</property>
 		<relationship name="masterEventFolder">
 			<destination>{427b38ac-11eb-4688-9b19-b126060503a7}</destination>
 		</relationship>

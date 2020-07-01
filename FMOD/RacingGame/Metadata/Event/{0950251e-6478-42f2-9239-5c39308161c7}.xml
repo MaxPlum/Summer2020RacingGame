@@ -33,6 +33,7 @@
 		</relationship>
 		<relationship name="banks">
 			<destination>{fe0dcbfb-802b-4bad-973b-ab42390b7cc3}</destination>
+			<destination>{0dec85b8-acad-4e03-a37e-aa73aee02e28}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixer" id="{8c886296-11a5-44e4-8e01-5c4045d4d3a3}">
@@ -97,6 +98,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{007c0d28-ec0a-4700-93ab-63b7b0ea7b82}">
+		<property name="volume">
+			<value>-7.5</value>
+		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>

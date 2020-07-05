@@ -2,7 +2,10 @@
 <objects serializationModel="Studio.02.00.00">
 	<object class="Workspace" id="{e8b01532-c51e-4a17-9426-80ddcc79351a}">
 		<property name="builtBanksOutputDirectory">
-			<value>../../Summer2020RacingGame/Content/FMOD</value>
+			<value>D:/RacingGam/Summer2020RacingGame/Summer2020RacingGame/Content/FMOD</value>
+		</property>
+		<property name="builtBanksMirrorBrowserFolderHierarchy">
+			<value>true</value>
 		</property>
 		<relationship name="masterEventFolder">
 			<destination>{427b38ac-11eb-4688-9b19-b126060503a7}</destination>
@@ -26,7 +29,7 @@
 			<destination>{acabab7b-cda1-4ca9-bd08-4b971d16fbc2}</destination>
 		</relationship>
 		<relationship name="platforms">
-			<destination>{e937040e-c987-4319-8c00-272a5f93bf1f}</destination>
+			<destination>{85e9ea57-79b6-4d21-b8aa-f8f5fae69103}</destination>
 		</relationship>
 	</object>
 </objects>

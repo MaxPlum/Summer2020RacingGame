@@ -1,0 +1,10 @@
+{0dec85b8-acad-4e03-a37e-aa73aee02e28} bank:/Banks
+{537f5397-bc67-4dba-8668-e81719cabe42} bank:/Master
+{cb627343-cd1c-01f8-0021-62e9e839b8da} bank:/Master.strings
+{b3da04ec-5f07-4a13-92f4-e878efa68be6} bus:/
+{3ac8fe92-77b7-497d-9483-56e0c7534712} bus:/In Race SFX
+{bc4c8cf3-b8d4-4d33-983d-cc3b4f8342be} bus:/Reverb
+{0950251e-6478-42f2-9239-5c39308161c7} event:/TEST
+{8be5d989-03d9-41ce-91bd-28f02d730e5f} vca:/Game Volume
+{4651ef90-13f5-41ba-8741-f87146c9589a} vca:/Music
+{efbcb4da-b539-49cc-a787-2006f7ce145b} vca:/SFX

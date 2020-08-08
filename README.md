@@ -7,7 +7,7 @@ Link to the team [Trello](https://trello.com/b/o6U4qGaw/production-board).
 
 # In-Engine
 ## Controls
-..* Functions using both keyboard and mouse and controller, although is optimized for controller input.
+Functions using both keyboard and mouse and controller, although is optimized for controller input.
 ### Keyboard Input
 <ul>
   <li>WS for forwards and backwards.</li>
@@ -15,6 +15,7 @@ Link to the team [Trello](https://trello.com/b/o6U4qGaw/production-board).
   <li>QE for strafing left and right.</li>
   <li>SPACE BAR for jumping.</li>
 </ul>
+<br>
 ### Controller Input
 <ul>
   <li>RT/LT for forwards and backwards.</li>

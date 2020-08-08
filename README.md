@@ -15,7 +15,7 @@ Functions using both keyboard and mouse and controller, although is optimized fo
   <li>QE for strafing left and right.</li>
   <li>SPACE BAR for jumping.</li>
 </ul>
-### Controller Input
+###  Controller Input
 <ul>
   <li>RT/LT for forwards and backwards.</li>
   <li>Right Analog Stick for turning left and right.</li>

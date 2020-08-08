@@ -9,7 +9,12 @@ Link to the team [Trello](https://trello.com/b/o6U4qGaw/production-board).
 ## Controls
 Functions using both keyboard and mouse and controller, although is optimized for controller input.
 ### Keyboard Input
-
+<ul>
+<li>WS for forwards and backwards.</li>
+<li>AD for turning left and right.</li>
+<li>QE for strafing left and right.</li>
+<li>SPACE BAR for jumping.</li>
+</ul>
 ### Controller Input
 <ul>
   <li>RT/LT for forwards and backwards.</li>
@@ -18,4 +23,3 @@ Functions using both keyboard and mouse and controller, although is optimized fo
   <li>RB/LB for strafing left and right.</li>
   <li>A Button for jumping.</li>
 </ul>
-# Game

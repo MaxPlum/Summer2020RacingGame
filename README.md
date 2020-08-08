@@ -9,13 +9,17 @@ Link to the team [Trello](https://trello.com/b/o6U4qGaw/production-board).
 ## Controls
 ..* Functions using both keyboard and mouse and controller, although is optimized for controller input.
 ### Keyboard Input
-..* WS for forwards and backwards.
-..* AD for turning left and right.
-..* QE for strafing left and right.
-..* SPACE BAR for jumping.
+<ul>
+  <li>WS for forwards and backwards.</li>
+  <li>AD for turning left and right.</li>
+  <li>QE for strafing left and right.</li>
+  <li>SPACE BAR for jumping.</li>
+</ul>
 ### Controller Input
-..* RT/LT for forwards and backwards.
-..* Right Analog Stick for turning left and right.
-..* Left Analog Stick for rotating camera.
-..* RB/LB for strafing left and right.
-..* A Button for jumping.
+<ul>
+  <li>RT/LT for forwards and backwards.</li>
+  <li>Right Analog Stick for turning left and right.</li>
+  <li>Left Analog Stick for rotating camera.</li>
+  <li>RB/LB for strafing left and right.</li>
+  <li>A Button for jumping.</li>
+</ul>

@@ -8,14 +8,14 @@ Link to the team [Trello](https://trello.com/b/o6U4qGaw/production-board).
 # In-Engine
 ## Controls
 Functions using both keyboard and mouse and controller, although is optimized for controller input.
-### Keyboard Input
-* WS for forwards and backwards.
-* AD for turning left and right.
-* QE for strafing left and right.
-* SPACE BAR for jumping.
 ### Controller Input
 * RT/LT for forwards and backwards.
 * Right Analog Stick for turning left and right.
 * Left Analog Stick for rotating camera.
 * RB/LB for strafing left and right.
 * A Button for jumping.
+### Keyboard Input
+* WS for forwards and backwards.
+* AD for turning left and right.
+* QE for strafing left and right.
+* SPACE BAR for jumping.
